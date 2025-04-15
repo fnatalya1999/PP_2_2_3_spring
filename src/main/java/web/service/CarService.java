@@ -1,6 +1,6 @@
 package web.service;
 
-import com.example.demo.model.Car;
+import web.model.Car;
 
 import java.util.List;
 
